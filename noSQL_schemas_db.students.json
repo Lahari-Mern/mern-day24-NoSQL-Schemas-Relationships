@@ -1,0 +1,24 @@
+[{
+  "_id": 1,
+  "name": "sneha",
+  "age": 22,
+  "course": "Java",
+  "email": "sneha123@gmail.com"
+},
+{
+  "_id": 2,
+  "name": "Sneha",
+  "address": {
+    "city": "Hyderabad",
+    "state": "Telangana"
+  }
+},
+{
+  "_id": 3,
+  "name": "Arun",
+  "skills": [
+    "Java",
+    "MongoDB",
+    "React"
+  ]
+}]

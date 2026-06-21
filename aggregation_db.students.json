@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6a3831bcc6526e151c60d6c6"
+  },
+  "name": "Rahul",
+  "age": 20,
+  "marks": 85,
+  "department": "CSE"
+},
+{
+  "_id": {
+    "$oid": "6a3831bcc6526e151c60d6c7"
+  },
+  "name": "Priya",
+  "age": 21,
+  "marks": 92,
+  "department": "CSE"
+},
+{
+  "_id": {
+    "$oid": "6a3831bcc6526e151c60d6c8"
+  },
+  "name": "Arun",
+  "age": 22,
+  "marks": 78,
+  "department": "ECE"
+},
+{
+  "_id": {
+    "$oid": "6a3831bcc6526e151c60d6c9"
+  },
+  "name": "Sneha",
+  "age": 20,
+  "marks": 88,
+  "department": "ECE"
+}]
